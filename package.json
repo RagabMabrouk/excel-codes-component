@@ -1,0 +1,24 @@
+{
+  "name": "excel-codes-component",
+  "version": "1.0.0",
+  "description": "custom component",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RagabMabrouk/excel-codes-component.git"
+  },
+  "keywords": [
+    "excelcodes",
+    "component",
+    "excel-codes-component"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RagabMabrouk/excel-codes-component/issues"
+  },
+  "homepage": "https://github.com/RagabMabrouk/excel-codes-component#readme"
+}
