@@ -2,8 +2,8 @@
 
 lable test
 
-type
-# H1
+
+# H1 type
 ---
 |
 valye
